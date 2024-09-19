@@ -71,7 +71,7 @@ function validaCampos(quantidade, de, ate, intervalo){
         Swal.fire({
             position: "center",
             title: "Atenção!",
-            html: 'Nenhum dos campos podem ficar <b>Vazios</b> ou receber valor <b>Zero</b>. Por favor, revise os números e refaça o sorteio.',
+            html: 'Nenhum dos campos podem ficar <b>Vazios</b> ou receber valores <b>Zeros</b>. Por favor, revise os números e refaça o sorteio.',
             icon: "warning",
             confirmButtonColor: "#4169E1", 
             iconColor: "#FFA500"
